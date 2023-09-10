@@ -148,6 +148,7 @@ main {
 }
 
 .profile__stat_number {
+  color: var(--clr-primary-desaturated-blue);
   font-weight: var(--fw-bold);
   font-size: 1.2rem;
 }
